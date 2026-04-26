@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hey, I'm Riddhi Chaplot
+# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Hey%2C+I'm+Riddhi+Chaplot+%F0%9F%91%8B" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&repeat=true&width=550&height=25&lines=AI%2FML+Engineer+in+the+Making;DSA+Grinder+%7C+C%2B%2B+Enthusiast;Building+Agents+That+Actually+Work;LangChain+%7C+LLMs+%7C+Real+Automation" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=Chaplot05&style=flat-square&color=FF0050&label=views" alt="Profile Views"/>
 
-<img src="https://komarev.com/ghpvc/?username=Chaplot05&style=flat-square&color=7c3aed&label=views" alt="Profile Views"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=FF0050&center=true&vCenter=true&repeat=true&width=550&height=25&lines=AI%2FML+Engineer+in+the+Making;DSA+Grinder+%7C+C%2B%2B+Enthusiast;Building+Agents+That+Actually+Work;LangChain+%7C+LLMs+%7C+Real+Automation" alt="Typing SVG" />
 
 </div>
 
@@ -12,18 +14,15 @@
 
 ### About Me
 
-A CS undergrad focused on AI/ML, agent systems, and backend engineering.
-Currently exploring LangChain, LLM agents, and real-world automation.
-I like turning ideas into working systems — not just notebooks.
-Also grinding DSA in C++ and leveling up problem-solving.
+- A CS undergrad focused on AI/ML, agent systems, and backend engineering
+- Currently exploring LangChain, LLM agents, and real-world automation
+- I like turning ideas into working systems — not just notebooks
+- Grinding DSA in C++ and leveling up problem-solving
 
 > *"If it can be automated, I'll probably try to build it."*
 
 <div align="center">
 <img src="./cat.jpg" width="300" alt="Coding Cat"/>
-
-> *"wait, the loss went DOWN??" — me, 3am*
-
 </div>
 
 ---
@@ -32,7 +31,6 @@ Also grinding DSA in C++ and leveling up problem-solving.
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -44,18 +42,12 @@ Also grinding DSA in C++ and leveling up problem-solving.
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -65,13 +57,13 @@ Also grinding DSA in C++ and leveling up problem-solving.
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Chaplot05&show_icons=true&bg_color=0d1117&border_color=7c3aed&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Chaplot05&show_icons=true&bg_color=0d1117&border_color=FF0050&title_color=FF0050&icon_color=ff4d6d&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaplot05&layout=compact&bg_color=0d1117&border_color=7c3aed&title_color=7c3aed&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaplot05&layout=compact&bg_color=0d1117&border_color=FF0050&title_color=FF0050&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
 
 <br><br>
 
-<img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=Chaplot05&background=0d1117&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=7c3aed&sideLabels=7c3aed&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=Chaplot05&background=0d1117&border=FF0050&ring=ff4d6d&fire=ff0050&currStreakLabel=FF0050&sideLabels=FF0050&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
