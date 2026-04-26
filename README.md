@@ -57,13 +57,13 @@
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Chaplot05&show_icons=true&bg_color=0d1117&border_color=C8C3FF&title_color=D9FB60&icon_color=C8C3FF&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Chaplot05&show_icons=true&bg_color=0d1117&border_color=C8C3FF&title_color=FF2D55&icon_color=C8C3FF&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaplot05&layout=compact&bg_color=0d1117&border_color=C8C3FF&title_color=D9FB60&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaplot05&layout=compact&bg_color=0d1117&border_color=C8C3FF&title_color=FF2D55&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
 
 <br><br>
 
-<img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=Chaplot05&background=0d1117&border=C8C3FF&ring=C8C3FF&fire=D9FB60&currStreakLabel=D9FB60&sideLabels=D9FB60&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=Chaplot05&background=0d1117&border=C8C3FF&ring=C8C3FF&fire=FF2D55&currStreakLabel=FF2D55&sideLabels=FF2D55&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
