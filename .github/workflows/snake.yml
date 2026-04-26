@@ -21,7 +21,7 @@ jobs:
           github_user_name: Chaplot05
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#C8C3FF&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF2D55
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#D9FB60
 
       - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
