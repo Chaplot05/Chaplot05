@@ -2,11 +2,11 @@
 
 # Hey, I'm Riddhi Chaplot 👋
 
-<img src="https://komarev.com/ghpvc/?username=Chaplot05&style=flat-square&color=0052FF&label=views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Chaplot05&style=flat-square&color=C8C3FF&label=views" alt="Profile Views"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0052FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=AI%2FML+Engineer+in+the+Making;DSA+Grinder+%7C+C%2B%2B+Enthusiast;Building+Agents+That+Actually+Work;LangChain+%7C+LLMs+%7C+Real+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=C8C3FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=AI%2FML+Engineer+in+the+Making;DSA+Grinder+%7C+C%2B%2B+Enthusiast;Building+Agents+That+Actually+Work;LangChain+%7C+LLMs+%7C+Real+Automation" alt="Typing SVG" />
 
 </div>
 
@@ -57,13 +57,13 @@
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Chaplot05&show_icons=true&bg_color=0d1117&border_color=0052FF&title_color=BFFF00&icon_color=0052FF&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Chaplot05&show_icons=true&bg_color=0d1117&border_color=C8C3FF&title_color=D9FB60&icon_color=C8C3FF&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaplot05&layout=compact&bg_color=0d1117&border_color=0052FF&title_color=BFFF00&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaplot05&layout=compact&bg_color=0d1117&border_color=C8C3FF&title_color=D9FB60&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
 
 <br><br>
 
-<img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=Chaplot05&background=0d1117&border=0052FF&ring=0052FF&fire=BFFF00&currStreakLabel=BFFF00&sideLabels=BFFF00&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=Chaplot05&background=0d1117&border=C8C3FF&ring=C8C3FF&fire=D9FB60&currStreakLabel=D9FB60&sideLabels=D9FB60&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
