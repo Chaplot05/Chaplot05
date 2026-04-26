@@ -2,17 +2,17 @@
 
 # Hey, I'm Riddhi Chaplot 👋
 
-<img src="https://komarev.com/ghpvc/?username=Chaplot05&style=flat-square&color=102770&label=views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Chaplot05&style=flat-square&color=0052FF&label=views" alt="Profile Views"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=102770&center=true&vCenter=true&repeat=true&width=550&height=25&lines=AI%2FML+Engineer+in+the+Making;DSA+Grinder+%7C+C%2B%2B+Enthusiast;Building+Agents+That+Actually+Work;LangChain+%7C+LLMs+%7C+Real+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=0052FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=AI%2FML+Engineer+in+the+Making;DSA+Grinder+%7C+C%2B%2B+Enthusiast;Building+Agents+That+Actually+Work;LangChain+%7C+LLMs+%7C+Real+Automation" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 🧠 About Me
+### ✧ About Me
 
 - A CS undergrad focused on AI/ML, agent systems, and backend engineering
 - Currently exploring LangChain, LLM agents, and real-world automation
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### ✧ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -53,23 +53,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### ✧ GitHub Stats
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Chaplot05&show_icons=true&bg_color=0d1117&border_color=102770&title_color=102770&icon_color=3b5fad&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Chaplot05&show_icons=true&bg_color=0d1117&border_color=0052FF&title_color=BFFF00&icon_color=0052FF&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaplot05&layout=compact&bg_color=0d1117&border_color=102770&title_color=102770&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaplot05&layout=compact&bg_color=0d1117&border_color=0052FF&title_color=BFFF00&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
 
 <br><br>
 
-<img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=Chaplot05&background=0d1117&border=102770&ring=3b5fad&fire=102770&currStreakLabel=102770&sideLabels=102770&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=Chaplot05&background=0d1117&border=0052FF&ring=0052FF&fire=BFFF00&currStreakLabel=BFFF00&sideLabels=BFFF00&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### ✧ Contribution Snake
 
 <div align="center">
 
@@ -83,8 +83,8 @@
 
 ---
 
-### 🔗 Socials
+### ✧ Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhi-chaplot)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:riddhichaplot05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhi-chaplot)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riddhichaplot05@gmail.com)
